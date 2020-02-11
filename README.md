@@ -1,5 +1,7 @@
-To install Semantic UI
-  1. Install jquery by webpacker
+  *Link semantic UI:   https://semantic-ui.com
+
+1. To install Semantic UI
+  - Install jquery by webpacker
     https://www.botreetechnologies.com/blog/introducing-jquery-in-rails-6-using-webpacker
-  2. Install Semantic UI
+  - Install Semantic UI
     https://www.npmjs.com/package/semantic-ui-sass

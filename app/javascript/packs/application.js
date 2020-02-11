@@ -18,3 +18,7 @@ require('jquery')
 // const imagePath = (name) => images(name, true)
 
 import 'semantic-ui-sass';
+
+$(document).on('turbolinks:load', function(){
+  $('.ui.dropdown').dropdown();
+})
